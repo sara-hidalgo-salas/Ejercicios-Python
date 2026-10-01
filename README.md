@@ -28,7 +28,6 @@ El conjunto de ejercicios abarca desde la sintaxis base hasta conceptos avanzado
 
 ## Estructura de Archivos
 
-* **`Ejercicios_Python/Enunciado_Ejercicios.pdf`**: Enunciados de los ejercicios a realizar.
 * **`Ejercicios_Python/Ejercicios/`**: Todos los scripts ejecutable (`.py`), archivos auxiliares (`.txt`) y subpaquetes de módulos.
 * **`Ejercicios_Python/Practica0_SIEA_SaraHidalgo.pdf`**: Memoria técnica completa con enunciados, explicaciones y capturas de pantalla de la ejecución.
 
